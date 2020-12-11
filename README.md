@@ -8,6 +8,9 @@ Our hope is that by making the roadmap public it will encourage users to partici
 # Roadmap
 Click [here](https://github.com/procedural-build/compute-roadmap/projects/1) to see the roadmap and the current progress.
 
+# Discussions
+Got any ideas, suggestions or questions? Head over to our [discussions page](https://github.com/procedural-build/compute-roadmap/discussions)
+
 # Get Involved!
 The easiest way to get involved with the development of Compute is to start/watch this repo to get notifications on the activity. You are also very welcome to join the discussion on the [issues page](https://github.com/procedural-build/compute-roadmap/issues), where the individual features are listed out.
 
